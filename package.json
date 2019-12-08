@@ -1,5 +1,5 @@
 {
-  "name": "bindns",
+  "name": "@olliv/bindns",
   "description": "Fast DNS library, server and client for Node.js based on libbind-6",
   "keywords": ["dns", "libbind"],
   "bugs": "https://github.com/primitybio/bindns/issues",

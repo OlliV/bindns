@@ -11,9 +11,6 @@ bugs.
 See **history** at the bottom for info on all of the forks of `ndns` and how
 this library came to be.
 
-This module isn't published to npm yet, so install it from github:
-`yarn add primitybio/bindns`.
-
 ## Example
 
 An example DNS server which responds with a "Hello World" TXT record:
